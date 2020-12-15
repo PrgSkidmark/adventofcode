@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+c4+oTbXuqsq0SCz+tfLFN3sx+GCsEjvCUvL7mPBiFJDUigERmQZDK0sEeDM21RXQ1ViBTHHjqgA9DgV7ZQQg==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\adventofcode\\202001\\202001.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bower\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\bower\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\bower\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\dev\adventofcode\202003\bin\Debug\netcoreapp3.1\202003.exe
+D:\dev\adventofcode\202003\bin\Debug\netcoreapp3.1\202003.deps.json
+D:\dev\adventofcode\202003\bin\Debug\netcoreapp3.1\202003.runtimeconfig.json
+D:\dev\adventofcode\202003\bin\Debug\netcoreapp3.1\202003.runtimeconfig.dev.json
+D:\dev\adventofcode\202003\bin\Debug\netcoreapp3.1\202003.dll
+D:\dev\adventofcode\202003\bin\Debug\netcoreapp3.1\202003.pdb
+D:\dev\adventofcode\202003\obj\Debug\netcoreapp3.1\202003.csprojAssemblyReference.cache
+D:\dev\adventofcode\202003\obj\Debug\netcoreapp3.1\202003.AssemblyInfoInputs.cache
+D:\dev\adventofcode\202003\obj\Debug\netcoreapp3.1\202003.AssemblyInfo.cs
+D:\dev\adventofcode\202003\obj\Debug\netcoreapp3.1\202003.csproj.CoreCompileInputs.cache
+D:\dev\adventofcode\202003\obj\Debug\netcoreapp3.1\202003.dll
+D:\dev\adventofcode\202003\obj\Debug\netcoreapp3.1\202003.pdb
+D:\dev\adventofcode\202003\obj\Debug\netcoreapp3.1\202003.genruntimeconfig.cache
